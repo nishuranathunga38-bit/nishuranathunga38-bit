@@ -46,4 +46,7 @@ Online cake shop application with product browsing, cart management, orders, and
 
 ## 📫 Connect With Me
 
+- **GitHub:** [nishuranathunga38-bit](https://github.com/nishuranathunga38-bit)
+- **Portfolio:** [View My Portfolio](https://canva.link/mctmlimhsm1aj6i)
+
 **GitHub:** [nishuranathunga38-bit](https://github.com/nishuranathunga38-bit)
