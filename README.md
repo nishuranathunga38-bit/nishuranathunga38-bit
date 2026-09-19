@@ -20,14 +20,20 @@ I am interested in UI/UX design, Artificial Intelligence, Prompt Engineering, da
 
 ## 💻 Projects
 
-### Smart Inventory Management System
+### [Smart Inventory Management System](https://github.com/nishuranathunga38-bit/Smart-Inventory-Management-System)
 AI-assisted inventory management system with predictive analytics.
 
-### ATI Badulla Web Portal
+**Technologies:** Java, JSP, Servlets, Python Flask, MySQL, Bootstrap
+
+### [ATI Badulla Web Portal](https://github.com/nishuranathunga38-bit/ATI-Badulla-Web-Portal)
 Web portal providing academic information and services for ATI Badulla students.
 
-### Sweet Muse Online Cake Shop
+**Technologies:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript
+
+### [Sweet Muse Online Cake Shop](https://github.com/nishuranathunga38-bit/Sweet-Muse-Online-Cake-Shop)
 Online cake shop application with product browsing, cart management, orders, and CRUD operations.
+
+**Technologies:** Java, JSP, Servlets, Python, MySQL, HTML, CSS, JavaScript, Bootstrap
 
 ## 🎯 Career Interests
 
