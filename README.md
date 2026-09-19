@@ -1,225 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:4B2E83,100:7B61FF&height=220&section=header&text=Nisansala%20Ranathunga&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Final-year%20HNDIT%20Undergraduate%20%7C%20UI%2FUX%20%7C%20AI%20%7C%20Web%20Technologies&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Nisansala Ranathunga
+
+### 💻 Final-year HNDIT Undergraduate
+
+**Web Development • UI/UX Design • AI • Prompt Engineering**
 
 <br>
 
-# Hello, I'm Nisansala 👋
-
-### Final-year HNDIT Undergraduate
-
-**UI/UX Design · Artificial Intelligence · Prompt Engineering · Web Technologies**
-
-<br>
-
-<a href="https://github.com/nishuranathunga38-bit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://canva.link/mctmlimhsm1aj6i">
-<img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=canva&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-nishuranathunga38--bit-181717?style=for-the-badge&logo=github)](https://github.com/nishuranathunga38-bit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-7B61FF?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/mctmlimhsm1aj6i)
 
 </div>
 
 ---
 
-## ✦ About Me
+## 👩‍💻 About Me
 
-I am a **final-year Higher National Diploma in Information Technology (HNDIT) undergraduate** with practical experience in web application development, database management, UI/UX design, and AI-assisted solutions.
+I am a final-year **Higher National Diploma in Information Technology (HNDIT)** undergraduate with practical experience in web application development, database management, UI/UX design, and AI-assisted solutions.
 
-I am particularly interested in **UI/UX Design, Artificial Intelligence, Prompt Engineering, Database Management, and Emerging Technologies**.
+I am interested in **UI/UX Design, Artificial Intelligence, Prompt Engineering, Database Management, and Emerging Technologies**.
 
-I enjoy learning new technologies and creating **practical, user-friendly digital solutions**.
+I enjoy learning new technologies and creating practical, user-friendly digital solutions.
 
 ---
 
-## ✦ What I Work With
+## 🛠️ Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💻 Web & Programming
 
-### 💻 Web Technologies
-
-- Java
-- JSP & Servlets
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-</td>
-
-<td width="50%" valign="top">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🤖 AI & Data
 
-- Python
-- Python Flask
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 - Artificial Intelligence
+- AI Tools
 - Prompt Engineering
-- MySQL
+- AI-assisted Solutions
 - Database Management
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Design
+### 🎨 Design & Other Skills
 
 - UI/UX Design
-- User-friendly Interfaces
-- Digital Design
-- Canva
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📋 Professional Skills
-
+- Basic Networking
 - Project Coordination
 - Documentation & Reporting
-- Basic Networking
 - Microsoft Office & Excel
-- Team Collaboration
-
-</td>
-</tr>
-</table>
 
 ---
 
-## ✦ Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
+## 🚀 Featured Projects
 
 ### 📦 Smart Inventory Management System
 
-AI-assisted inventory management system with predictive analytics.
+AI-assisted inventory management web application developed to support inventory management and predictive analysis.
 
-**Built with**
+**Technologies:**  
+`Java` `JSP` `Servlets` `Python Flask` `MySQL` `Bootstrap`
 
-`Java` `JSP` `Servlets`  
-`Python Flask` `MySQL` `Bootstrap`
+🔗 **[View Project →](https://github.com/nishuranathunga38-bit/Smart-Inventory-Management-System)**
 
-<br>
-
-<a href="https://github.com/nishuranathunga38-bit/Smart-Inventory-Management-System">
-View Project →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🏫 ATI Badulla Web Portal
 
-Academic web portal providing information and useful services for ATI Badulla students.
+A web portal developed to provide academic information and useful services for ATI Badulla students.
 
-**Built with**
+**Technologies:**  
+`Java` `JSP` `Servlets` `MySQL` `HTML` `CSS` `JavaScript`
 
-`Java` `JSP` `Servlets`  
-`MySQL` `HTML` `CSS` `JavaScript`
+🔗 **[View Project →](https://github.com/nishuranathunga38-bit/ATI-Badulla-Web-Portal)**
 
-<br>
-
-<a href="https://github.com/nishuranathunga38-bit/ATI-Badulla-Web-Portal">
-View Project →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🎂 Sweet Muse Online Cake Shop
 
-Online cake shop application with products, cart, orders and CRUD functionality.
+An online cake shop web application with product browsing, cart management, order management, and CRUD functionality.
 
-**Built with**
+**Technologies:**  
+`Java` `JSP` `Servlets` `Python` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
 
-`Java` `JSP` `Servlets`  
-`Python` `MySQL` `Bootstrap`
+🔗 **[View Project →](https://github.com/nishuranathunga38-bit/Sweet-Muse-Online-Cake-Shop)**
 
-<br>
+---
 
-<a href="https://github.com/nishuranathunga38-bit/Sweet-Muse-Online-Cake-Shop">
-View Project →
-</a>
+## 🎯 Career Interests
 
-</td>
-
+<table>
+<tr>
+<td>🎨 UI/UX Design</td>
+<td>🤖 Artificial Intelligence</td>
+</tr>
+<tr>
+<td>🌐 Web Development</td>
+<td>🧠 Prompt Engineering</td>
+</tr>
+<tr>
+<td>🗄️ Database Management</td>
+<td>🚀 Emerging Technologies</td>
+</tr>
+<tr>
+<td>📋 Project Coordination</td>
+<td>💡 Digital Solutions</td>
 </tr>
 </table>
 
 ---
 
-## ✦ Career Interests
+## 🎓 Education
+
+**Higher National Diploma in Information Technology (HNDIT)**  
+Sri Lanka Institute of Advanced Technological Education (SLIATE)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-| 🎨 UI/UX Design | 🤖 Artificial Intelligence |
-|:---:|:---:|
-| 🌐 Web Technologies | 🧠 Prompt Engineering |
-| 🗄️ Database Management | 🚀 Emerging Technologies |
-| 📋 Project Coordination | 💡 Digital Solutions |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuranathunga38-bit&show_icons=true&hide_border=true&rank_icon=github)
 
 </div>
 
 ---
 
-## ✦ Education
-
-### 🎓 Higher National Diploma in Information Technology
-
-**Sri Lanka Institute of Advanced Technological Education (SLIATE)**
-
-Final-year undergraduate
-
----
-
-## ✦ GitHub Activity
+## 🌐 Portfolio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishuranathunga38-bit&show_icons=true&hide_border=true&title_color=7B61FF&icon_color=7B61FF&text_color=555555&bg_color=FFFFFF" height="165"/>
+### ✨ Explore My Portfolio
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuranathunga38-bit&layout=compact&hide_border=true&title_color=7B61FF&text_color=555555&bg_color=FFFFFF" height="165"/>
+[![Portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-7B61FF?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/mctmlimhsm1aj6i)
 
 </div>
 
 ---
 
-## ✦ Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-I'm open to **IT internship opportunities, learning opportunities, and professional connections.**
+**GitHub:** [nishuranathunga38-bit](https://github.com/nishuranathunga38-bit)
 
-<br>
-
-<a href="https://canva.link/mctmlimhsm1aj6i">
-<img src="https://img.shields.io/badge/✨%20VIEW%20MY%20PORTFOLIO-7B61FF?style=for-the-badge"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/nishuranathunga38-bit">
-<img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-141E30?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-**Thank you for visiting my profile!**
-
-*Always learning · Always improving · Always creating*
+**Portfolio:** [View My Portfolio](https://canva.link/mctmlimhsm1aj6i)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:4B2E83,100:7B61FF&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### 💙 Thank you for visiting my profile!
+
+*Always learning • Always improving • Always creating*
+
+</div>
